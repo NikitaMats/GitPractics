@@ -1,2 +1,2 @@
 # GitPractics
-Проверка изменений в ветке Doc попытка 1
+Changed read me after comment reviewer
